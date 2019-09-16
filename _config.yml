@@ -1,4 +1,4 @@
-theme: Architect
+#theme: jekyll-theme-architect
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
@@ -53,7 +53,8 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://bschwarz.github.io/me
+  # BASE_PATH : https://bschwarz.github.io/me
+  BASE_PATH : "/me"
   # BASE_PATH : ""
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
