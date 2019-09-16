@@ -23,6 +23,8 @@ production_url : https://bschwarz.github.io/me
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
+baseurl: ''
+url: 'https://bschwarz.github.io'
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
